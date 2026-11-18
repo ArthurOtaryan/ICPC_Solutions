@@ -1,12 +1,9 @@
 import java.io.*;
 import java.util.*;
 
-// Problem A. AALEX.EXE
-// Перебираем k = 0..8 добавленных 'A' (дальше имя уже не меняется: "AAAAAAAA"),
-// и проверяем, что новое имя строго меньше всех остальных.
 public class A {
     static int cmp(String b1, String e1, String b2, String e2) {
-        int c = b1.compareTo(b2); // compareTo: префикс считается меньше
+        int c = b1.compareTo(b2);
         if (c != 0) return c;
         return e1.compareTo(e2);
     }
