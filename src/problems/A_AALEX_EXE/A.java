@@ -1,3 +1,5 @@
+package problems.A_AALEX_EXE;
+
 import java.io.*;
 import java.util.*;
 

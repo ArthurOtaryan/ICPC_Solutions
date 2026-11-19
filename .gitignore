@@ -31,5 +31,5 @@ bin/
 ### IDE / local ###
 .idea/
 *.iml
-src/
+src/Main.java
 ПЛАН_ПУШЕЙ.md
