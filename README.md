@@ -1,7 +1,7 @@
 # ICPC Solutions
 
-Разборы и решения задач **ICPC 2026–2027 Northwestern Russia Regional Contest**
-(Санкт-Петербург, 14 ноября 2026). Язык — Java.
+Разборы и решения задач **ICPC 2026–2027 Caucasian Region**
+(Армения, 14 ноября 2026). Язык — Java.
 
 Каждая задача лежит в своей папке `src/problems`:
 
